@@ -1,5 +1,5 @@
 # On-line_Spending_Behaviors
-Descriptive and visual analytics of one family's on-line purchase activity and attempts to predict future spending.  This project started out in R, then added Python programming for additional visualizations.  
+This review of 2000 instances of irregular time series data uses descriptive and visual analytics to gain insights into one family's on-line purchase activity and attempts to predict future activity.  This project started out in R, then due to the irregular nature of the time series data, added Python programming for additional visualizations and insights.  
 
 Listen to presentation at https://screenrec.com/share/REMvuKZ7Sf
 
